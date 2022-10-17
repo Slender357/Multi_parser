@@ -1,0 +1,1 @@
+schtasks /create /tn parseval /tr %PATH%\start.bat /sc daily /st 15:46:00
